@@ -52,6 +52,7 @@ export default function App() {
     <>
       <NavigationContainer>
         <Navigation />
+        <Text>test</Text>
       </NavigationContainer>
       <StatusBar />
     </>
